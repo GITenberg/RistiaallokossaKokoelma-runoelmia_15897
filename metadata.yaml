@@ -1,0 +1,28 @@
+_repo: RistiaallokossaKokoelma-runoelmia_15897
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leino, Kasimir
+    birthdate: 1866
+    deathdate: 1919
+    gutenberg_agent_id: '6366'
+    url: http://www.gutenberg.org/2009/agents/6366
+description: ''
+gutenberg_issued: '2005-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15897'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PH'
+title: 'Ristiaallokossa
+
+  Kokoelma runoelmia'
+url: http://www.gutenberg.org/ebooks/15897
